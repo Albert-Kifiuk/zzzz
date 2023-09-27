@@ -9,7 +9,7 @@ html {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
-  background-image: url(//images/background/pexels-rostislav-uzunov-5011647.jpg);
+  background-image: url(/images/background/pexels-rostislav-uzunov-5011647.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
