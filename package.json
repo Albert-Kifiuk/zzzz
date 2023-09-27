@@ -1,0 +1,20 @@
+{
+  "name": "zzzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albert-Kifiuk/zzzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albert-Kifiuk/zzzz/issues"
+  },
+  "homepage": "https://github.com/Albert-Kifiuk/zzzz#readme"
+}
